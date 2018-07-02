@@ -1,0 +1,9 @@
+C:\Raz\CARSO\VS2017EjercicioClaroV\GeneracionModeloDatos\bin\Debug\netstandard2.0\GeneracionModeloDatos.deps.json
+C:\Raz\CARSO\VS2017EjercicioClaroV\GeneracionModeloDatos\bin\Debug\netstandard2.0\GeneracionModeloDatos.dll
+C:\Raz\CARSO\VS2017EjercicioClaroV\GeneracionModeloDatos\bin\Debug\netstandard2.0\GeneracionModeloDatos.pdb
+C:\Raz\CARSO\VS2017EjercicioClaroV\GeneracionModeloDatos\obj\Debug\netstandard2.0\GeneracionModeloDatos.csprojResolveAssemblyReference.cache
+C:\Raz\CARSO\VS2017EjercicioClaroV\GeneracionModeloDatos\obj\Debug\netstandard2.0\GeneracionModeloDatos.csproj.CoreCompileInputs.cache
+C:\Raz\CARSO\VS2017EjercicioClaroV\GeneracionModeloDatos\obj\Debug\netstandard2.0\GeneracionModeloDatos.AssemblyInfoInputs.cache
+C:\Raz\CARSO\VS2017EjercicioClaroV\GeneracionModeloDatos\obj\Debug\netstandard2.0\GeneracionModeloDatos.AssemblyInfo.cs
+C:\Raz\CARSO\VS2017EjercicioClaroV\GeneracionModeloDatos\obj\Debug\netstandard2.0\GeneracionModeloDatos.dll
+C:\Raz\CARSO\VS2017EjercicioClaroV\GeneracionModeloDatos\obj\Debug\netstandard2.0\GeneracionModeloDatos.pdb

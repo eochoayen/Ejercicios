@@ -1,0 +1,2 @@
+C:\Raz\CARSO\VS2017EjercicioClaroV\ModeloDatosAcceso\ModeloDatosAcceso.csproj;x86
+C:\Raz\CARSO\VS2017EjercicioClaroV\VS2017EjercicioClaroV\VS2017EjercicioClaroV.csproj;x86
