@@ -1,9 +1,0 @@
-﻿<Application
-    x:Class="VS2017EjercicioClaroV.App"
-    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:VS2017EjercicioClaroV"
-    RequestedTheme="Dark">
-
-</Application>
-
